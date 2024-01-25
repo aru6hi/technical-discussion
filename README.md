@@ -1,5 +1,7 @@
 #technical discussion
-##this is a second heading
-*one
-*two
-*three
+
+## this is a second heading
+
+* one
+* two
+* three
